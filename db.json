@@ -1,3 +1,5 @@
 {
-  "return": "Dummy token from My JSON Server"
+  "tokiosLogin": {
+    "return": "Dummy token from My JSON Server"
+  }
 }
